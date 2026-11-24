@@ -1,6 +1,6 @@
 <div align="center">
 
-# Daniel de Mello
+# Daniel de Mello Bonato
 
 **Technology Enthusiast · Project Builder · Problem Solver**
 
