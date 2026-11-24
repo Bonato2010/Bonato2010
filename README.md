@@ -41,7 +41,7 @@ Building practical solutions through technology, experimentation, and continuous
 
 ## About
 
-- Second-year high school student in the technical IT program at **Centro de Tecnologia Aplicada (CTA)**.
+- Advancing to the **3rd year of high school** in the technical IT program at **Centro de Tecnologia Aplicada (CTA)**.
 - Based in **Bangu, Rio de Janeiro, Brazil**.
 - Interested in software development, automation, and embedded systems.
 - I learn by building, testing, and improving real projects.
