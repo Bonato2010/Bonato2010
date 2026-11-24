@@ -24,7 +24,7 @@ Technical IT student who enjoys turning ideas into practical projects. I learn b
 
 ## About
 
-- Second-year high school student in the technical IT program at Centro de Tecnologia Aplicada (CTA), Bangu, Rio de Janeiro, Brazil
+- third-year high school student in the technical IT program at Centro de Tecnologia Aplicada (CTA), Bangu, Rio de Janeiro, Brazil
 - Interested in software development, automation, and embedded systems
 - Hands-on learner who enjoys building and improving real projects
 
