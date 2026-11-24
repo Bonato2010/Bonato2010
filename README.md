@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.jpg" alt="Daniel de Mello — technology and engineering" width="100%" />
+
 # Daniel de Mello
 
 **Technology Enthusiast · Project Builder · Problem Solver**
@@ -13,6 +15,12 @@ Building practical solutions through technology, experimentation, and continuous
 ---
 
 ## Projects
+
+<div align="center">
+
+<img src="assets/projects.jpg" alt="VANTIS, Bio-Nova, V.I.D.A. Simulator and Projetec 2026 project covers" width="100%" />
+
+</div>
 
 | Project | Overview |
 |:--|:--|
